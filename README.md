@@ -1,1 +1,1 @@
-# my-homeworks
+# Java practice, solutions
